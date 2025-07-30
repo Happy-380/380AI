@@ -19,3 +19,72 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+380's Artificial Intelligence应用使用许可条款
+
+依赖组件声明：
+Index-1.9B-Chat(MIT)-需保留LICENSE文件
+tinybert-emotion-balanced(MIT)-需注明来源
+CommunityToolkit.Mvvm (MIT)
+CommunityToolkit.WinUI.Notifications (MIT)
+DocX(Apache-2.0)-需包含NOTICE文件
+Magick.NET-Q8-AnyCPU(Apache-2.0)-需保留版权声明
+PdfPig(Apache-2.0)-需包含NOTICE文件
+Microsoft.Extensions .* (MIT)
+Microsoft.ML.OnnxRuntime (MIT)
+SharpCompress (MIT)
+SharpToken (MIT)
+System.Buffers (MIT)
+Ollama (MIT)
+
+1. 知识产权
+本应用所有代码、界面设计、文本内容及图形资源均为原创作品，版权归属于 一架从南航跑出来的380 所有。
+
+2. 使用授权
+授予用户非排他性、不可转让的许可，允许：
+✓ 个人或非营利性使用
+✓ 查看、运行本应用
+✗ 任何商业用途（包括销售、租赁、广告收益等）
+✗ 移除或修改版权标识（包括代码注释、界面水印、关于页面等）
+
+3. 传染性条款（Copyleft）
+任何基于本应用的衍生作品必须：
+• 采用相同许可条款分发
+• 完整保留所有原始版权声明
+• 明确标注修改内容
+• 禁止添加商业使用条款
+
+4. 依赖项要求
+本应用包含第三方组件，用户必须遵守以下特殊要求：
+MIT许可证组件要求:
+·在衍生作品中包含原始LICENSE文件
+·保留所有版权声明
+适用组件:Index-1.9B-Chat,tinybert-emotion, CommunityToolkit .* , Microsoft .* , Sharp*系列
+
+Apache-2.0许可证组件要求:
+·包含NOTICE文件
+·明确标注修改内容(如有)
+·保留所有专利/商标声明
+适用组件:DocX,Magick.NET,PdfPig
+
+AI模型特殊要求:
+·所有输出内容需注明模型来源
+·不得用于生成非法或侵权内容
+·遵守模型提供者的使用政策
+
+5. AI免责声明
+本应用使用人工智能模型生成内容，请注意：
+• 输出内容可能不准确或不适当
+• 不得用于法律、医疗、金融等专业领域
+• 开发者不对模型生成内容导致的损失负责
+• 用户需对生成内容进行人工审查
+
+6. 责任限制
+本应用按"原样"提供，开发者不承担：
+• 数据丢失或系统损坏责任
+• 特定用途适用性担保
+• 因违反本许可导致的追责
+
+最后修订日期：2025年7月16日
