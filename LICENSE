@@ -1,19 +1,22 @@
-380's Artificial Intelligence应用使用许可条款
+380's Artificial Intelligence 应用使用许可条款
 
 依赖组件声明：
-Index-1.9B-Chat(MIT)-需保留LICENSE文件
+Qwen3-0.6B(Apache-2.0)-需保留版权声明
 tinybert-emotion-balanced(MIT)-需注明来源
 CommunityToolkit.Mvvm (MIT)
+CommunityToolkit.WinUI.* (MIT)
 CommunityToolkit.WinUI.Notifications (MIT)
-DocX(Apache-2.0)-需包含NOTICE文件
+CommunityToolkit.WinUI.UI.Controls.* (MIT)
+Qwen3-0.6B (Apache-2.0)
 Magick.NET-Q8-AnyCPU(Apache-2.0)-需保留版权声明
-PdfPig(Apache-2.0)-需包含NOTICE文件
+H.OxyPlot.WinUI (MIT)
+Microsoft.EntityFramewokeCore.Sqlite (MIT)
 Microsoft.Extensions .* (MIT)
+Microsoft.ML. (MIT)
 Microsoft.ML.OnnxRuntime (MIT)
 SharpCompress (MIT)
 SharpToken (MIT)
 System.Buffers (MIT)
-Ollama (MIT)
 
 1. 知识产权
 本应用所有代码、界面设计、文本内容及图形资源均为原创作品，版权归属于 一架从南航跑出来的380 所有。
@@ -37,30 +40,43 @@ Ollama (MIT)
 MIT许可证组件要求:
 ·在衍生作品中包含原始LICENSE文件
 ·保留所有版权声明
-适用组件:Index-1.9B-Chat,tinybert-emotion, CommunityToolkit .* , Microsoft .* , Sharp*系列
 
 Apache-2.0许可证组件要求:
 ·包含NOTICE文件
 ·明确标注修改内容(如有)
 ·保留所有专利/商标声明
-适用组件:DocX,Magick.NET,PdfPig
+
+NB Music for 380's AI 组件要求：
+• 禁止一切使用源代码的商业行为，包括但不限于，打包售卖、未经允许的搬运等
+• 务必标注作者和项目链接
+• 详细信息请见第5部分（第三方应用确认和外部应用声明）
 
 AI模型特殊要求:
 ·所有输出内容需注明模型来源
 ·不得用于生成非法或侵权内容
 ·遵守模型提供者的使用政策
 
-5. AI免责声明
+5. 第三方应用确认和外部服务声明
+   本应用可通过本地网络接口（localhost）与独立的外部服务进行通信以扩展功能。此类外部服务在法律和版权上被视为独立作品，其许可条款不影响本应用的主体授权。
+
+   特别地，本应用可能使用的 NB Music for 380's AI 服务：
+   • 是一个独立的、遵循GNU通用公共许可证v3.0（GPL-3.0）的程序
+   • 从 NB Music 项目二次修改（开发者：NB-Group，User782Tec；原链接：https://github.com/NB-Group/NB_Music）
+   • 与本应用通过明确的进程边界（如网络API）进行交互，不构成单一的衍生作品
+   • 若您同时分发此服务，您必须严格遵守其GPL-3.0许可证的所有要求，包括但不限于提供完整的源代码
+   • 本应用的主体许可条款（即本文件）不适用于该外部服务，反之亦然
+
+6. AI免责声明
 本应用使用人工智能模型生成内容，请注意：
 • 输出内容可能不准确或不适当
 • 不得用于法律、医疗、金融等专业领域
 • 开发者不对模型生成内容导致的损失负责
 • 用户需对生成内容进行人工审查
 
-6. 责任限制
+7. 责任限制
 本应用按"原样"提供，开发者不承担：
 • 数据丢失或系统损坏责任
 • 特定用途适用性担保
 • 因违反本许可导致的追责
 
-最后修订日期：2025年7月16日
+最后修订日期：2026年2月2日
