@@ -1,6 +1,6 @@
 # 380’s Artificial Intelligence
 
-![WinUI 3 Logo](https://img.shields.io/badge/WinUI-3.0-blue) ![Ollama](https://img.shields.io/badge/Powered%20by-Ollama-green) ![Offline AI](https://img.shields.io/badge/100%25-Offline%20AI-brightgreen)
+![WinUI 3 Logo](https://img.shields.io/badge/WinUI-3.0-blue) ![Offline AI](https://img.shields.io/badge/100%25-Offline%20AI-brightgreen)
 
 **完全本地运行的桌面人工智能助手** - 基于 WinUI 3 和 llama.cpp 构建，无需联网即可使用，保护您的隐私安全。
 
