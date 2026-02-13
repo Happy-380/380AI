@@ -43,4 +43,4 @@
 - [llama.cpp](https://github.com/ggml-org/llama.cpp)
 
 ## 查看其他组件
-- [NB Music for 380's AI](https://github.com/Happy-380/NB-Music-for-380-s-AI/edit/main/README.md)
+- [NB Music for 380's AI](https://github.com/Happy-380/NB-Music-for-380-s-AI)
