@@ -37,3 +37,10 @@
 1.**下载对应版本的 code.zip**并解压
 
 2.**使用 Visual Studio 2022 打开 .sln 解决方案文件**
+
+## 感谢以下开源项目
+- [NB_Music](https://github.com/NB-Group/NB_Music)
+- [llama.cpp](https://github.com/ggml-org/llama.cpp)
+
+## 查看其他组件
+- [NB Music for 380's AI](https://github.com/Happy-380/NB-Music-for-380-s-AI/edit/main/README.md)
